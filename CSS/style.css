@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+button{
+    margin-top: 20px;
+    align-items: center;
+    width:100px;
+    height:30px;
+    background-color: #eeeeee;
+    border: outset 2px #ff0000;
+}
+
+input{
+    border: inset 3px #ff8000;
+    margin-top: 20px;
+    width:100px;
+    height:25px;
+}
+
+td{
+    margin-left: 20px;
+    font:bold large/150% "MSゴシック";
+}
